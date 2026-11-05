@@ -1,12 +1,13 @@
-# Hi, I'm Taha 👋
+# Hey there! <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/38f00f8c-8287-4426-bf57-8e8c2339d3a9" />
 
-I'm a Software Engineering graduate from Pakistan, focused on building AI-powered applications and exploring how AI systems can solve real problems.
+
+I'm a Software Engineer based in Pakistan, focused on building AI-powered applications and exploring how AI systems can solve real problems. I design and build whatever I can imagine.
 
 ### What I'm working on
 
 I build AI-powered applications and experiment with different ways to make AI more useful in real-world tasks.
 
-- **EAN (Expert Arbitration Network):** A legal AI system that combines multiple LoRA expert heads with an evidence-aware gating mechanism for legal answer generation.
+- **Mistral-7B-MultiLoRA-Legal:** A legal AI system that combines multiple LoRA expert heads with an evidence-aware gating mechanism for legal answer generation.
 - **Aegis:** An AI-powered flood prediction and disaster assistance system that uses environmental and river data to support flood forecasting and emergency response.
 - **Socratic Tutor:** An AI tutor that helps students understand concepts through questions and guided learning.
 - **AI Agents & Skills:** Creating AI agents, agentic workflows, reusable skills, and tools that extend what AI assistants can do.
